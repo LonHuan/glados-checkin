@@ -1,5 +1,5 @@
 import requests ,os
-# server酱开关，填0不开启(默认)，填2同时开启cookie失效通知和签到成功通知
+# server酱开关，填0不开启(默认)，填2同时开启cookie失效通知和签到成功通知1
 sever = 'on'
 # 填写server酱sckey,不开启server酱则不用填（自己更改）
 sckey = 'SCU110000Tb05dc047b53930315e64b4ed720ddba35f3d01d941a72'
