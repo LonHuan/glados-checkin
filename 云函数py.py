@@ -2,9 +2,9 @@ import requests ,os
 # server酱开关，填0不开启(默认)，填2同时开启cookie失效通知和签到成功通知
 sever = 'on'
 # 填写server酱sckey,不开启server酱则不用填（自己更改）
-sckey = 'SCU89402Tf98b7f01ca3394b9ce9aa5e2ed1a****************'
+sckey = 'SCU110000Tb05dc047b53930315e64b4ed720ddba35f3d01d941a72'
 # 填入glados账号对应cookie
-cookie = '__cfduid=d825014ac33b402b3f**************'
+cookie = '__cfduid=d7fbdecb527525a1e18d40fdd69f5ca291609924721; _ga=GA1.2.778291573.1609924724; _gid=GA1.2.352133408.1609924724; koa:sess=eyJjb2RlIjoiT0ZRVEYtQUE5TlUtSTBKVkstMTFBWTgiLCJ1c2VySWQiOjUwODM5LCJfZXhwaXJlIjoxNjM1ODQ0NzY5NTc1LCJfbWF4QWdlIjoyNTkyMDAwMDAwMH0=; koa:sess.sig=IfNQXoywGpwsS6WLPS2Y_tOON5c; _gat_gtag_UA_104464600_2=1'
 referer = 'https://glados.rocks/console/checkin'
 
 def start():
